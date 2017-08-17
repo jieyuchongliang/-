@@ -7,3 +7,6 @@
     方法的信息
     格式打印json、xml等
     点击链接跳转到源码打印处
+2: compile 'q.rorbin:badgeview:1.1.2' &nbsp; &nbsp; BadgeView，粘帖在控件上显示数量的控件。例如，购物车上显示的数量，可以用到BadgeView。
+
+3: compile 'com.bigkoo:convenientbanner:2.0.5' &nbsp; &nbsp; 通用的广告栏控件
