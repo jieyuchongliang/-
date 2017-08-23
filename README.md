@@ -12,3 +12,5 @@
 3: compile 'com.bigkoo:convenientbanner:2.0.5' &nbsp; &nbsp; 通用的广告栏控件
 
 4：compile 'com.roughike:bottom-bar:2.3.1'&nbsp; &nbsp; 底部导航栏控件
+
+5：compile 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.3'&nbsp; &nbsp;刷新控件
