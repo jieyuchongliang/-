@@ -14,3 +14,5 @@
 4：compile 'com.roughike:bottom-bar:2.3.1'&nbsp; &nbsp; 底部导航栏控件
 
 5：compile 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.3'&nbsp; &nbsp;刷新控件
+
+6：compile 'com.zhy:base-rvadapter:3.0.3'&nbsp; &nbsp;Android 万能的Adapter for RecyclerView。可自由实现条目点击事件，条目内各个view的点击事件。可自由添加Header和Footer。可方便事件刷新加载！
