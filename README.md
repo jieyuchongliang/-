@@ -16,3 +16,6 @@
 5：compile 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.3'&nbsp; &nbsp;刷新控件
 
 6：compile 'com.zhy:base-rvadapter:3.0.3'&nbsp; &nbsp;Android 万能的Adapter for RecyclerView。可自由实现条目点击事件，条目内各个view的点击事件。可自由添加Header和Footer。可方便事件刷新加载！用法:github搜索baseadapter。
+
+7:https://github.com/chaychan/PowerfulViewLibrary&nbsp; &nbsp;PowerfulViewLibrary,可见与不可见密码输入框+仿支付宝数字滚动的TextView+可展开收起的LinearLayout开源库
+
