@@ -19,3 +19,5 @@
 
 7:https://github.com/chaychan/PowerfulViewLibrary&nbsp; &nbsp;PowerfulViewLibrary,可见与不可见密码输入框+仿支付宝数字滚动的TextView+可展开收起的LinearLayout开源库
 
+8：https://github.com/Curzibn/Luban &nbsp; &nbsp;鲁班压缩
+
