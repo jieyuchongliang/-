@@ -21,3 +21,6 @@
 
 8：https://github.com/Curzibn/Luban &nbsp; &nbsp;鲁班压缩
 
+9：https://github.com/hdodenhof/CircleImageView &nbsp; &nbsp;圆形显示图片
+
+10：https://github.com/daimajia/AndroidViewAnimations  &nbsp; &nbsp;给view设置动画。
