@@ -24,3 +24,5 @@
 9：https://github.com/hdodenhof/CircleImageView &nbsp; &nbsp;圆形显示图片
 
 10：https://github.com/daimajia/AndroidViewAnimations  &nbsp; &nbsp;给view设置动画。
+
+11：http://blog.csdn.net/zhangxichao100/article/details/52579151 &nbsp; &nbsp;各种炫酷的条目展示控件。
