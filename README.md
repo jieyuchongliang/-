@@ -26,3 +26,5 @@
 10：https://github.com/daimajia/AndroidViewAnimations  &nbsp; &nbsp;给view设置动画。
 
 11：http://blog.csdn.net/zhangxichao100/article/details/52579151 &nbsp; &nbsp;各种炫酷的条目展示控件。
+
+12：https://github.com/zilianliuxue/AndroidStudy/blob/master/Android%20%E5%AE%9E%E6%88%98%E5%BC%80%E5%8F%91/%E5%AE%89%E5%8D%93%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E4%B9%8Bapp%E4%B9%8B%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%28DownloadManager%E5%92%8Chttp%E4%B8%8B%E8%BD%BD%29%E5%AE%8C%E6%95%B4%E5%AE%9E%E7%8E%B0.md  &nbsp; &nbsp;app更新下载
